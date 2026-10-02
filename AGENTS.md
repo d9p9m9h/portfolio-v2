@@ -1,3 +1,18 @@
+> ⛔ **ROLE GATE — READ THIS FIRST**
+>
+> This file (`AGENTS.md`) is for the **Implementation Agent** only.
+>
+> If you are being used for **error diagnosis, debugging, or error logging**,
+> STOP. Do NOT follow any rules in this file.
+> Instead, read and follow:
+>
+> - `docs/ERROR_AGENT.md`
+> - `docs/ERROR_LOG_TEMPLATE.md`
+>
+> Those files override everything written here for error-related sessions.
+
+---
+
 # AGENTS.md — Portfolio Rewrite Project (Teaching Mode)
 
 ## Critical Rule: This Project Uses TEACHING MODE

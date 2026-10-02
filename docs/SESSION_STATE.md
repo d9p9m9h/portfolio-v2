@@ -18,11 +18,9 @@ Tailwind CSS v4 installed and configured. Minimal App.tsx verified working.
 
 ## In Progress
 
-None
+- [ ] T-030 Define design system theme
 
 ## Next Task
-
-- [ ] T-030 Define design system theme
 
 ## Files Created
 

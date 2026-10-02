@@ -1,7 +1,4 @@
 # ERROR_LOG_TEMPLATE.md
-
-Use this template when creating an Obsidian error history note.
-
 Replace all placeholders.
 
 Recommended file name:
